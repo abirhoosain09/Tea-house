@@ -1,0 +1,16 @@
+@media (max-width: 576px) and (min-width: 0){ 
+    .hero_content h1 {
+        color: #252c30 !important;
+        font-size: 30px;
+        font-family: italic;
+        font-weight: 700;
+    }
+    .navbar-brand {
+        width: 60px;
+        margin-left: 221px;
+      
+    }
+}
+
+
+ 
